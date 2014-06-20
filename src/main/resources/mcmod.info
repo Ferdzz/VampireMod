@@ -1,0 +1,16 @@
+[
+{
+  "modid": "VampireMod",
+  "name": "Vampire Mod",
+  "description": "Transforms you into a Vampire",
+  "version": "First",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Stuntmania"],
+  "credits": "Stuntmania (code) FreeStyler555 (textures and idea)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
